@@ -57,7 +57,8 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="chakra-ui" />
   
 </p>
-## 📊 My Github Stats
+<!-- ### 📊 My Github Stats -->
+<h2 align="left">📊 My Github Stats:</h2>
 
 <!-- github status  -->
 
