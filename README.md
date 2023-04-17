@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Bahire</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
-
-
 <br/>
    <p align="center" color:"red">
      <a href="https://github.com/soumya0587/readme-typing-svg">
